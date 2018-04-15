@@ -1,0 +1,19 @@
+E:\C#\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.exe.config
+E:\C#\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.exe
+E:\C#\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.pdb
+E:\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csprojResolveAssemblyReference.cache
+E:\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.Form1.resources
+E:\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.Properties.Resources.resources
+E:\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csproj.GenerateResource.Cache
+E:\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.exe
+E:\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.pdb
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.exe.config
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.exe
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\bin\Debug\Cellular Automaton.pdb
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csprojResolveAssemblyReference.cache
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.Form1.resources
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular_Automaton.Properties.Resources.resources
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csproj.GenerateResource.cache
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.csproj.CoreCompileInputs.cache
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.exe
+F:\STUDYING\PROGRAMMING\C#\Cellular Automaton\Cellular Automaton\obj\Debug\Cellular Automaton.pdb
